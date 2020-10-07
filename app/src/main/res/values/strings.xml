@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LiveData ViewModel Observer App Java</string>
+    <string name="no_name">You Have not entered a name</string>
+    <string name="change_name">Change Name</string>
+    <string name="new_name">New Name</string>
+</resources>
